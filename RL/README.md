@@ -1,2 +1,2 @@
-### 🕹 Reinforcement Learning  
+# 🕹 Reinforcement Learning  
 🚧 _Work in Progress_ 🚧
