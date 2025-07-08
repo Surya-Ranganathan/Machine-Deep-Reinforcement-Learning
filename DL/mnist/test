@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\title{Continuous Distributions}
+\author{}
+\date{}
+\maketitle
+
+/section {I. Basics of Probability}
+Introduction to Probability
+Definition of Probability
+Random Experiments, Sample Space & Events
+Classical, Empirical, and Axiomatic Probability
+Probability Rules (Addition & Multiplication Rules)
+Types of Events
+Independent and Dependent Events
+Mutually Exclusive and Exhaustive Events
+Complementary Events
+Conditional Probability
+Bayes’ Theorem & Applications
+Formula of Bayes' Theorem
+Medical Diagnosis, Spam Detection, Fraud Detection
+
+
+/section {II. Random Variables & Probability Distributions}
+Random Variables
+Discrete vs. Continuous Random Variables
+Probability Mass Function (PMF)
+Probability Density Function (PDF)
+Cumulative Distribution Function (CDF)
+Expectation & Variance
+Mean, Variance, and Standard Deviation
+Moment Generating Functions
+Chebyshev’s Inequality
+Common Probability Distributions
+Discrete Distributions:
+Bernoulli Distribution
+Binomial Distribution
+Poisson Distribution
+Geometric & Negative Binomial Distribution
+Continuous Distributions:
+Uniform Distribution
+Normal (Gaussian) Distribution
+Exponential Distribution
+Gamma & Beta Distribution
+Joint & Marginal Distributions
+Joint Probability Distributions
+Marginal and Conditional Distributions
+Covariance & Correlation
+Independence of Random Variables
+
+\end{document}
