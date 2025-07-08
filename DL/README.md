@@ -104,8 +104,4 @@ Machine-Deep-Reinforcement-Learning/
 │           │
 │           └── README.md
 │
-├── Deep Learning/
-│   └── README.md
-├── Reinforcement Learning/
-│   └── README.md
 └── README.md
